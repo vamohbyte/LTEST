@@ -1,0 +1,603 @@
+[A guide to Lilith's Throne by C4MG1RL(Not an actual cam girl)]
+v0.4.8, May 7th, 2023
+
+This guide will cover Enchantment, Slavery, Skills, Levels, and provide tips on how to make a Character Build! If you have additional questions I encourage you explore the game first before asking in the Lilith's Throne Discord. It may be off topic but people will help, if not then you can @ Innoxia or an enforcer. Some additional tips can be found on the wiki or in the server's FAQ. If all else fails then add and DM me on Discord.
+
+For faster navigation use the search function (Should be CTRL + F on windows and... something on linux and mac) to find sections easier by searching for:
+	-Enchanting 101
+	-Slavery 101
+	-Combat 101
+
+[Enchanting 101: How to make your gear good, look good, and chug potions]
+
+[Getting Started]
+	
+	-Let's start with how you even begin to enchant! To get started you need to do basically anything that'll give your character essence: the lifeblood of enchanting and your primary resource. The fastest way would be to fuck Lilaya right after the tutorial during her "test" however, if you don't want to fuck your aunt then simply go outside and win a fight, fuck something, or buy some from Vicky (the wolfgirl in the shopping arcade). You could also equip an item that's enchanted already but you'll need the essence anyway so you might as well do one of the previously recommended ways. Once that's done follow the quest to talk to Lilaya this will give some lore and a brief explanation, now you've unlocked enchanting! Make sure you do the initial test first!
+	
+	-Now, as stated before: you need essence. A lot of it if you want to do much with this mechanic. Fortunately it's easy to get! If you have a lot of money you can buy it as mentioned above in the arcade. Poor and need to level up? Go fight in the alleys! Poor and just want to fuck without needing to fight? Whore yourself at Angel's Kiss (The Brothel to the right of Lilaya's house)
+	
+	-One last thing before getting to the meat of this: Enchantment Capacity. Be mindful of your Enchantment Capacity! Going over gives an increasingly harsh penalty, you can even get low enough to only have 1 Health and 1 Aura. So be mindful to upgrade your limit with the perks and by levelling up (Or disable it in the Content Options)! You can view your current capacity in your inventory above your equipped gear. It's 10 + level + perk bonus up to a sum total of 110.
+	
+	-Remember that you can save presets for items to quickly apply them to items! They're saved for that item specifically and you're able to apply an enchantment to multiple items in a stack, but saving the preset makes making potions or multiple slave collars much easier.
+	
+[Enchantments you wear that give you flair]
+	
+	-Clothes, weapons, and tattoos can be enchanted to boost core stats and to provide non-racial body transformations on set intervals.
+		
+		- You cannot add nor change body parts this way. You must use a potion to add or remove them (more on this later).
+		
+		-You can enchant equipment and tattoos to provide stat bonuses like a boost in Spell Efficiency or Melee Damage as long as they're worn. Or you can make a butt plug of ass growth, to each their own. Currently they're the only form of a permanent stat bonus you can apply as they last until the item is removed or disenchanted. 
+		
+		-Some clothing also provides a set bonus. When wearing a sufficient number of certain outfits you'll receive bonus stats, these can be stacked and one can wear multiple sets at once. For example, you can combine the effects of the Yule holiday outfit with the snow jewelry to stack cold damage bonuses, or stack the witch costume with the Dark Siren set to gain more spell bonuses! You can see what clothing has an associated set by selecting or hovering over it, it will tell you below the name of the item.
+	
+	-Enchanting an item with Enslavement will allow you to equip it to a defeated opponent in the alleys to, you guessed it, enslave them if you have the license.
+	
+		-You can obtain a license by visiting the Slaver's Alley location in the alley left of Lilaya's House. After paying a fee of five thousand flames you're good to go! (More details on slavery later)
+		
+		-Be careful with items enchanted with Servitude! If you accidentally put it on yourself you will need to ask Lilaya for help removing it.
+		
+		-Unique NPCs (ones written, not generated) cannot be enslaved unless written to allow it and in such a case it is in specific scenes not through the collar. 
+	
+	-You can also provide fetishes to people through clothing. Such as a collar with the submission fetish so you don't need a potion. This is useful in situations when you want the sex bonus, to get around the corruption check, or to view certain scenes but don't want the weakness to the opposing tease or for ease in applying and removing it!
+	
+	-You can obtain a Hypnowatch after a side quest given by Arthur (The nerd you rescue that's taking up a room in the mansion) that will allow you to change the femininity orientation of characters including yourself. It can also be used repeatedly on yourself to gain permanent corruption so you can turn into a demon! (More on that later)
+	
+	-Curious is the trap makers art, unidentified items can be found discarded when exploring alleys and identified by putting it on or from your inventory for a small essence cost. Some items will be jinxed/cursed and provide debuffs when worn while also sealing themselves to the player, these can be removed as well for a varying essence cost unless enchanted with Servitude. If you accidentally put on something enchanted with servitude Lilaya will help remove it. 
+
+
+[Transformations both mental and physical]
+	
+	-Foodstuffs provide racial transformations based on what race they reference and the icon in the background. (This is a long one)
+	
+			-Kitty's Reward: Cats
+			
+			-Panther's Delight: Panthers
+			
+			-Canine Crunch: Dogs (Not Wolves)
+			
+			-Meat & Marrow: Wolves (Not Dogs)
+			
+			-Bone Crunchers: Hyenas 
+			
+			-Sugar Carrot Cube: Horses also allows pegasus, unicorn, and alicorn options
+			
+			-Bubblegum Lollipop: Harpies (Not birds)
+			
+			-Raptor energy bar: Birds (Not harpies or dinosaurs)
+			
+			-Bread Roll: Human (Not naked bears)
+			
+			-Honey bread: Bears (Not hairy humans)
+			
+			-Bubble Cream: Cattle
+			
+			-Round Nuts: Squirrel
+			
+			-Fruit Bat Salad: Bats 
+			
+			-Brown Rat Burger: Rats
+			
+			-Bunny Carrot Cake: Rabbits
+			
+			-Chicken Pot Pie: Foxes
+			
+			-Gator's Gumbo: Alligators
+			
+			-Sugar Cookie: Reindeer, obtained from the reindeer when they spawn during December
+			
+			-Woolly Goodness: Sheep
+			
+			-Chocolate Brownie: Capybara
+			
+			-Tuna Sashimi: Sharks
+			
+			-Billy's Best: Goats
+			
+			-Sausages: Ferrets
+			
+			-Oinker's Fries: Pigs (Not cops or rich people)
+			
+			-Shrimp Cocktail: Octopi, octopodes, octopuses, octopussies (not squid)
+			
+			-Fish and Chips: Otters (Not Englishmen)
+			
+			-Pate and Crackers: Gryphons 
+			
+			-Popcorn: Raccoons
+			
+			-Boiled eggs: Snakes
+			
+			-Chocolate Coated Coffee Beans: Spiders
+			
+			-Harvest Mouse's Cheese: Mice
+			
+			-Berry Triffle: Badgers
+			
+			-Apple Pie: Salamander
+			
+			-Tree Shoots Salad: Deer
+			
+			-Biojuice Canister: Slime body material, consumed to slime and can be enchanted to deslime
+			
+		-To get certain subspecies you might need different variants of the same transformation along with specific hair patterns. Such as a fennec fox requiring the secondary ear transformation for foxes and tan/dirty blonde/bleach blonde fur. This may soon (or already has) change to inform you in the encyclopedia entry which is gained when encountering races for the first time, beating them up, and reading their book. Because nothing brings understanding more than a good fight. Some can be learned on sight, others in the library.
+		
+	
+	-A Mystery Kink item can be enchanted to enhance the like/dislike of certain fetishes which will increase or decrease Arousal gains during sex. They can also add/remove fetishes in case you accidentally picked one or lost a fight and got one applied to your character.
+	
+	-Angel's Nectar doesn't need to be enchanted to provide its addiction removal effect but it can be enchanted to lower corruption or regrow a hymen.
+	
+	-Remember: The player doesn't need to use a potion to change fetish likes/dislikes or to add them to themselves. You do need to enchant a Mystery Kink to remove them from yourself or to change these for non-player and non-unique characters.
+	
+	-Demons and their ilk can not be transformed into other races. They can, however, still gain non-racial transformations even if it's a wasted effort since they can do that at will from the Transformation menu when inspecting them.
+	
+	-To become a demon you must reach ninety-five corruption or more then ask Lyssieth to fuck her way into becoming your mom. Lyssieth is unlocked by progressing the main story until you have finished the lore/exposition dump.
+	
+	-Dragon fruit, needed to becom a certified ego boost, is sold by a special dragon boi named Eisek in Elis once you've done his side quest.
+	
+	-Youko and Angels will be added later but can currently be imitated by slimes though not permanently.
+	
+	-TFing slimes is also a wasted effort to use potions on, similar to demons, as they can also self transformation at will.
+	
+	-You can enchant a Biojuice Container to return a slime to flesh. No, you can't turn into a slime, transformation into a demon, then deslime.
+
+
+[Potions, elixirs, and tonics? Oh my!]
+	
+	-All bonuses aside from restoration effects provided through these are temporary in that they have an expiration time and you'll need to drink another potion to reapply the buff or debuff.
+	
+	-Drinks with a red background can be enchanted to provide physical boosts or restoring Health. This is where you make traditional health potions.
+	
+		-Equine Cider, Bubble Milk, Wolf Whiskey, Swamp Water, Black Rat's Rum, Canine Crush, Squirrel Java, Rudolph's Egg Nog, Workout Power, Vodka, Grog, Ink Vodka, Snake Oil, Jet Black Coffee, Black Rat's Rum, Raptor Energy Drink, Deep Roar, Ewe's Brew, Porcine Pop, Black Stripes Perry, and Pan's Flute will provide physique related options.
+	
+	-Drinks with a light purple background can be enchanted to give boost to your arcane power, to restore Aura, or provide a bonus to both elemental damage and shielding. This is where you make traditional mana (Aura in Lilith's Throne) potions.
+	
+		-Feline Fancy, Vulpine Vineyard, Vanilla Water, Fruit Bat's Juice Box, Cotton Candy Soda, Fizzy Orange Juice, Berry Soda, Two-Tone Slushie, Chamomile Tea, and Harvest Mouse's Barley Water will provide arcane related options.
+	
+	-Drinks with a pink background are for all things lewd. Light pink is just dark pinks diet form, both give boost to fertility/virility and lust damage/shielding. However, dark pink can also give corruption and restore Aura and Health!
+	
+		-Harpy Perfume, Slime Quencher, Bunny Juice, and Mince Pie provide these bonuses
+		
+	-Impish Brew and Lilith's Gift are like super items that let you add all potion buffs/debuffs on one item.
+	
+	
+[C4M's Declassified Incubation Survival Guide]
+	To egg or get egged the Egginjector/Eggecutioner needs
+	
+	1: A pussy that lays eggs (Harpy, Dragon, Gator, and spoder have it by default but it can now be added as a TF option)
+	
+	2: An egg chute (dick or pseudopenis clit with an ovi modifier)
+	
+	3: Get pregangr, you can't lay unfertilized eggs until someone harasses Inno enough to add that.
+	
+	4: Fuck with le chute d'oeuf and when you're ready to coom you'll be prompted to lay eggs in suitable hole*
+		*Note you can't seem to impreggnate static NPCs (At least not Lilaya who was the only one I tested)
+		
+		**Note if you don't put your eggs in someone else then you still lay them like the game has always had you do when you talk to Lilaya to give birth.
+		
+		***Note Someone 'ought to harass Inno about an actual retract/extendable tube so you're not seeing spiders walking around with a 3ft clit 24/7/365 
+
+[How to fuck your talking dog(or equivalent)]
+	-Feral (as in they look like the regular animal but have a sapient mind, not feral as in they've gone crazy and act like rather than belonging on the streets they belong in a zoo) is only partially implemented at the moment. And by partially I mean the bare minimum's in the game mechanically but you can't actually encounter/TF into one normally.
+	
+	-If you want to play Druid Simulator[Current Year +3] then you need to either use one of the bootleg mods in the server's mod sharing channel, edit your save if you know some of the inputs, or learn to deploy a lethal dosage of the parser in the debug menu to make one.
+	
+	-Of course, while you shouldn't encounter too many issues be advised that, again, it's not officially in the game and thus isn't accounted for in many situations. You may encounter issues.
+
+
+[Slavery 101: How where there's a whip, there's a way!]
+
+[Getting Started]
+	
+	-So, you wanna be the very best? Like no one ever was? Well enslaving is your real test! First of all, you need a license. You're a degenerate, but you're a LICENSED degenerate! So go to the Slaver's Alley located west of Lilaya's Mansion. (Pro tip I forgot to mention: use the map in the library and it'll show all the tiles in Dominion.) Got talk to Three Inch Finch to start the short side quest to get your license. You should have enough as Lilaya gives just enough to buy it at the start of the game.
+	
+	-Once you've gotten a license you need rooms, something enchanted with enslavement, and slaves. This is why enchantment was explained first. So we'll go in order of necessity! 
+	 
+	 -There's two stats for slaves to worry about: Obedience and Affection. These can be raised by room upgrades and job assignments. 
+		
+		-Obedience: How much a slave listens to their owner and how diligently they do their job. Higher obedience means more money both from working and selling so this one is important.
+		
+		-Affection: How much they like you, unlike Obedience this one is primarily flavor text. It also can change sex into rape when low enough, if that's your thing. If you just want money it doesn't matter and can safely be ignored.
+		
+	-Some fetishes boost the gains from some jobs. The lactation fetish for instance will boost the milking job's obedience and affection output! Unwilling Fucktoy for the stocks, Masochist for the molest interaction, etc. Some perks also achieve this such as the Nympho perk benefitting prostitutes; so be aware of this and experiment! I definitely didn't forget what they do! 
+	
+	-Don't over work your slaves! Well, you can... B-but you get a penalty (affection loss) for it and it's mean, s-so don't do it!
+	
+	
+[Rooms to board and horde]
+
+	-I know this is a guide to enslaving but a quick thing to note: You can build a guest room once you've gotten to know an alley attacker or your child enough to ask Lilaya. Then you can invite them as a guest to stay over if you want to keep them but aren't a fan of slavery! They can even work jobs in the mansion if you're tired of waiting for them to find one on their own (don't forget you have to actually tell them to look and select jobs by talking to them).
+	
+	-Rooms can be upgraded from the Manage Room menu for a fee and upkeep cost. Each upgrade has different effects on slave stat gains and performance so read carefully! You can also change the occupancy of a room here but it has to be empty and all upgrades are lost on the change. This is also where you can collect your precious flames.
+
+	-Right, this is a slavery guide so first things first! You need a place to put your slaves. Finch will hold them but you can't work them unless you move them in! Once you have your license Rose (Lilaya's slave) will renovate any room you designate into boarding for one, two, or four beds. Choose wisely as this will effect obedience, sharing a room gives them opportunities to plot! Or something. 
+	
+	-Now you may be wondering "Why pick the 4 bed room if it hurts obedience gains?" Because it's rather simple to negate with upgrades! There's no definitive combo here but with the right upgrades, and the right job, you can easily return that to a positive!
+	
+	-You should build an office though it isn't mandatory. It allows you to better manage your slaves without needing to visit Finch even if you don't have any slaves working in it! Such as an activity log to see what they're up to.
+	
+	-Some jobs require rooms to be built such as a milking room for milk slaves or the office for desk work. Each of these rooms also have upgrades to further enhance slave stats or money output so they're also worth a look.
+	
+	-There is also a secret sex dungeon in the mansion with rooms you can use if you like to punish or "punish" your slaves. It's not too hard to find but it's a secret!
+	
+	
+[Getting meat for the grinder]
+
+
+	-Alright, now you have rooms so it's time to catch 'em all and put meat back on the menu! To get started there's the lazy/style way and the cheap exploit way to get slaves. But first, an important thing to note: Although a large majority of generic/generated NPCs can be freely enslaved, there are a few exceptions such as the raiders in the fields and unless the unique character has an explicit route to accomodate it such as Brax/Bree and Scarlet, then they cannot be enslaved (though once enslaved they lose all uniqueness and behave as a generic npc so there isn't much point IMO).
+	
+		-The Cheap Exploit way: We have two flavors! 
+		
+			-Diet cheap: Get any item and enchant it with Enslavement and only that. Find targets in the alleys, fight them, win, open their inventory, and equip the item on them. You now have a slave! If you didn't seal the item or put servitude on it you can unequip the item from your slave and reuse it instead of making or buying multiple items of enslavement!
+		
+			-Extra cheap: You can unequip an item from a defeated enemy, take it, enchant it with enslavement, and re-equip it on themselves. Basically you can make their own clothes enslave them. Steal their shoes and enslave them with it.
+			
+				-(This is a temporary stratagem until the game's updated so that slaves can run away)
+	
+		-The lazy/style way:
+	
+			-This one will take either a few days of resting to restock Finch, dye brushes, or you to have three Earth spells for free recolors. Basically Buy a bunch of collars from Finch that should already have enslavement (if they don't it's a bug. Please report it on the Discord Server!) on them and just dye them to your liking. Stack them up, and use them.  
+		
+			-Slaves escaping is a planned feature, collars will either prevent escape or make recovery possible so keep this in mind if you're forgetful. For now, however, slaves won't run even if you remove all items of enslavement or don't have sealing on them so it's mainly cosmetic after initial enslavement.
+	
+	-So now that you've bought or caught a slave, what do? Well, you go home. Go to the room you've prepared for them to stay in and open the Manage People menu. Find the slave you want to move, you'll notice they currently have a negative modifier for both Affection and Obedience gains. This is because Little Dick Finch is too lazy to take care of slaves while they're in his possession so click the green arrow under Actions and move them to their new home. 
+	
+	-The Slave and Occupant Management Menu is where you'll see just about everything you need to know to manage your slaves. Inspect them to get a description and open the options at the bottom.
+	
+	-The Permissions tab will allow you to set their behavior (Currently doesn't do much outside the Bedroom job), Silence them so they won't talk, make them crawl, allow them to roam inside and/or outside the house when idle, determine if they do/don't take pills, set their body size and muscle tone, and set their hygiene tendencies.
+	
+	-If you allow a slave to "Use You" then they'll accost the player character when they're pent up if you're in a location they can reach and their work allows it. Slaves only get pent up after extended times without sex and they'll only stay that way if they don't have an outlet for relief. So for maximum role reversal you want to ensure that it's their only path to release and that they have household freedom for sex in the mansion and outside freedom for sex on the streets.
+	
+	
+[Work the shift, clean the halls]
+
+	-Now you have your rooms, your slaves, their permissions, and hopefully basic understanding of the menus lets get to the jobs and money making tactics.
+	
+	-Open the Job menu when you have a slave selected in the Slave and Occupant Management Menu. You can see their current Affection and Obedience value, their current income, and their current value if you sold them. Then their current jobs and permissions. What we want to focus on is below all that: The Available Jobs, Time Slots, Fatigue, and Job Settings.
+	
+	-The Available Jobs are dependent on rooms available. 
+		-Idle: What it sounds like, your slave won't be earning you any dosh since this is their time off.
+		
+		-Maid: Always available with twenty slots to work. It gains a bonus from the player having a maid background. Slaves will help Rose with keeping the mansion tidy and can be seen roaming around during working hours.
+		
+		-Librarian: Always available with 5 slots to work. They loiter around in the Library with no bonus to pay for traits, fetishes, or background.
+		
+		-Cook: Always available with five slots to work. Same as the Librarian but in the kitchen.
+		
+		-Waiter/Waitress: Always available, works the dining hall to serve food
+		
+		-Lab Assistant: Always available with one slot to work. Currently it operates the same where your slave has flavor text for helping Lilaya but not much else, story beats tend to ignore them currently.
+		Test Subject: Always available with five slots to work. Lilaya will run experiments on the slave which you can set to be masculine, feminine, or both. This job gains a bonus to affection and obedience gains if the slave has the Test Subject fetish.
+		
+		-Public Use: Always available with five slots to work. You'll assign your slave to work the stocks in Slaver's Alley offering whatever services you allow. This job gains a bonus to Affection and Obedience gains if the slave has the Unwilling Fucktoy fetish (It'll be positive gains instead of negative).
+		
+		-Prostitute: Requires Prostitution License with ten slots to work. They will work in Angel's Kiss offering whatever services you allow. This job gains a bonus to Affection and Obedience gains if the slave has the Submissive fetish (It'll be positive gains instead of negative)
+			
+			-Be wary with the Prostitution and Public Use jobs, they may gain addictions which will require removal from the player with Angel's Nectar. Addictions will decrease their stats as they get further in withdrawal.
+		
+		-Dairy Cow/Bull: Available if the stalls have been built with eight slots to work. Hook your slaves up to a machine to get the deep succ and collect/sell the fluids enabled. This job gains a bonus to Affection and Obedience gains if the slave has Cum Stud or the Lactation fetish.
+		
+		-Office Worker: Available once an office has been built with four slots to work. Give your slaves a greater hell than anyone could imagine; endless paperwork with no pay.
+		
+		-Security Guard: Always available, will patrol the halls, similar to the maids, and one will always be at the entrance to stand watch.
+		
+		-Gardener: Always available, will attend to the garden in the center atrium of the mansion (which is more like a villa but I digress) 
+		
+		-Bedroom: Always available with four slots to work. Your personal harem and just about the only place the behaviors matter right now.
+		
+		-If you've constructed the spa you can also station slaves there either in the pools to wash or at the reception.
+	
+	-Each job has different fatigue gains over time, hence the working hour shifts. An over worked slave will barely receive experience for their work, will lose affection, and takes a severe penalty to their stats. You can practically ignore it if all you care about is the money than the affection and relationship with slaves since some jobs will give more of a bonus than you can possibly lose.
+	
+	
+[Capitalist Ranching: An honest day's labors and the American Dream]
+	
+	-A dead dream. This con has been shut down and a new cheese (pun intended) must be found. In the meantime, you can take full advantage of a relic of ye olden builds for easy profit. The designated demon tiles (the purple tiles in alleys of Dominion) can easily be farmed for demonic slaves forever. They often sell for a high price by default and can be freely modified since they can self TF to sell for more. Honestly something that should probably be looked at but likely never will be.
+	
+	-For those of you who aspire to reach the heifer heights yourself rather than subject others to that, and as compensation for this segment being removed:
+	
+[How to be on the receiving end of Milk Capitalism and/or a centaur slut]
+
+	-Go to Elis (Unlocked by progressing the story) and either talk to Moonica in the Elis equivalent of the shopping arcade (not the farmer's market where there's the raccoon girl or the fortunes, the other one) and begin her quest which will mark it on your map or go east 5 tiles and north 2 from Elis proper on the world map to find it on your own. 
+
+	-You can work as a milk slut for Evelyn as long and as much as you want and climb the ranks of cowdom. It even includes a bad end and another player slavery opportunity.
+	
+	-To be down bad for horse cock/pussy/ass then you can progress the main story until you have dealt with Scarlet, then return to her matriarch Helena to start her romance quest. After a point you will be intorduced to Natalya and, after a short introduction scene, can find her at the Dominion Express in the Warehouse District above Slaver's Alley.
+	
+[Combat 101: Building a Shonen Protagonist]
+
+[Getting Started]
+
+	-Now that you know how to enchant (Hopefully) and make money through slavery (though there are other means) let's cover how to apply this knowledge into improving your character in combat! To begin with you'll need to get better acquainted with what kind of character you're intending on making. There's three main ways to focus your character and they all align with the three main stats below your name, however, we'll start with what stats do and how damage is determined to help better decide this.
+	
+[Stats and what they mean]
+
+	-Your stats are the core of your character and essential for competency in battle. It doesn't matter what weapon you have (If you're not cheating) or what spells you have if you lack the stats to make them work.
+
+	-Core Attributes: The backbone of all builds. 
+		-Physique is a measure of your raw physical power. It influences your Critical Power, Physical Damage, and your Health. This is important for melee focused characters but the critical bonus and additional health don't hurt to have on other builds either.
+		
+		-Arcane is the measure of your raw magical power. It influences your Spell Damage and Efficiency, your Elemental Damage, and your Aura pool
+	
+		-Corruption is how lewd and perverted your character is, not how evil you are. Do not get these confused. It influences your Lust Damage and Shielding, Fertility, and Virility. Having a Corruption of over 95 is required to become a demon.
+		
+	-Miscellaneous Attributes: For all your breeding needs
+		-Fertility is how likely you are to get pregnant
+		
+		-Virility is how likely you are to impregnate
+		
+		-The pregnancy math has changed: 
+			It USED to be: (Virility x Cum Quantity + Fertility)/3. AKA big numbers + lots of cum = pregnant. Small/negative number + small/no cum = not pregnant 
+			
+			It NOW is: 1/2 Virility + 1/2 Fertility + 10%
+			
+			Even with this change it is still possible to make a character too fertile/virile for the pill to contain
+			
+		-The Pill is not a guaranteed ways to prevent pregnancy, you must lower either virility or fertility to 0 or less. Remember, it is a math equation, not a toggle. If you have -99 Fertility and are given a breeder pill you're now able to get pregnant. 
+		
+		-I have been told that the perk isn't a factor to the equation anymore and is just a flat, outright disable of the mechanic like menopause. Rejoice ye who aspire to be blank shooters and ye who yearn for barren, salted fields!
+	
+	-Combat Attributes: Where things get specific
+		-Critical Power: How hard your critical hits, hit. This is the only stat that scales up from 0 - 500.
+		
+		-Health Shielding: Damage reduction to attacks on your Health bar
+		
+		-Unarmed Damage: Damage done with no weapons equipped
+		
+		-Melee Damage: Damage done with a melee weapon equipped, does not increase unarmed damage.
+		
+		-Ranged Damage: Damage done with a ranged weapon, does not increase damage with spells.
+		
+		-Physical Damage: Damage done with Earth weapons and spells as well as unarmed damage without Incendiary upgraded Flame Cloak cast.
+		
+		-Physical Shielding: Damage reduction to Earth weapons and spells including unarmed damage without Flame Cloak.
+		
+		-Spell Damage: Damage done with any and all spells.
+		
+		-Spell Efficiency: Reduces the cost of all spells cast.
+		
+		-Fire/Ice/Poison Damage: Elemental damage with the equivalent spell or weapon.
+		
+		-Fire/Ice/Poison Shielding: Elemental protection from all attacks of the equivalent type.
+		
+		-Lust Damage: Power of teases, lust based spells, and lust based weapons .
+		
+		-Lust Shielding: Resistance to lust effects outside of sex scenes.
+
+
+[Arcane Arts and Where to Find Them]
+
+	-Spells are very useful tools to have at your disposal and often can turn a seemingly unwinnable fight into child's play. The bonus for obtaining spells in each school, mainly earth and water, are also very useful even if you don't intend on ever using the spells.
+	
+	-Spells and their upgrade scrolls can be bought from Vicky in the Shopping Arcade. Be careful since they can be rather costly if you don't have a good source of income yet. 
+	
+	-Remember, spells not on your Combat Moves list cost an additional Action Point! This can make it so certain spells cannot be cast unless they're saved as a combat move so be prepared.
+	
+	-Once you learn one spell you also learn Arcane Strike. This move is your friend in the early game when your aura is weak as it restores aura on each hit.
+	
+	
+[Spelling out Magic]
+	
+	-Spells are divided into 5 categories but I will lower it down to 3 main ones to look out for. 
+		
+		-Physical: Earth magic. This scales in damage with your physique and is a helpful bonus to those looking to focus on physical damage along with melee attacks. Really, the spells you have available and the great pairing with melee it's like being a medieval jedi or something. 
+		
+		-Elemental: Water, Fire, and Air magic. These are the elements to focus on if you're not trying to make a lust focused yet magic character to take advantage of the elemental damage bonuses found along its perk tree.
+		
+		-Lust: Arcane magic, to nobody's surprise, is almost exclusively your lewd magic category. Note Cleanse, Steal, and Lilith's Command aren't available to be unlocked yet (without cheating). These spells scale in damage with your Lust Damage stat, which means more corrupt characters and demons will gain a significant advantage in that they'll be stronger in this endeavor with less effort.
+		
+	-All spells have their uses and understanding which ones serve which purpose is important to organizing your attacks.
+		
+		-Instantaneous Spells: Ones you actively cast and are often your primary source of damage in a fight. Damaging ones are the first option in each category; Slam, Ice Shard, Fireball, Poison Vapors, and Arcane Arousal. Soothing Waters is the only instantaneous support spell.
+		
+		-Sustained Spells: Ones whose effects are divided across multiple turns. These spells for damage are Telekinetic Shower, Vacuum, Telepathic Communication, and Arcane Cloud. The support spells are Stone Wall, Rain Cloud, Flash, Flame Cloak, Protective Gusts, and Teleport.
+		
+		-Elemental Spells: A manifestation of your fighting spirit, your Stand... Sorry, the manifestation of your aura, your elemental is your battle buddy no matter where you go (as long as you have the power to summon them). They're the same elemental no matter what element you summon them as, so pick whichever category has the spells you like and summon them as that!
+	
+	
+[Lilith's Bizarre Adventure: The Phantom Slut]
+
+	-"Isn't this a porn game? Where's all the sexy stuff!?" Right here! Lust damage is where you go to beat Lilith at her own game.
+	
+		-The basic tease is worthless, the damage is so low that even raising your stats hardly makes any difference. Don't even bother with it. Arcane magic is the bread and butter of Lust Damage and is what you should focus on if you intend on going anywhere with such a character.
+		
+		-Fetish teases are useful if you haven't reached the point you can rely on Arcane Arousal. They do triple their damage to enemies with the opposing fetish, such as impreg vs pregnancy. However, they do even less damage than the basic tease against enemies who lack the weakness and do 1 damage to enemies that hate the fetish. You can see enemy desires by hovering over the star in their status bar.
+		
+	-The Arcane spells gain bonuses from both Spell Damage and Lust Damage making them a truly powerful option especially since most enemies are defeated once their lust reaches 100 and very few have any Lust Shielding.
+	
+	
+[Racials and fetish bonuses for the Min/Max gang]
+
+	-Your character's race doesn't hold too much weight on your stats in most cases but I know there's people out there that want peak optimization. So:
+
+[Racial Bonuses] (This will be a long one)
+	
+		-Human: +5 Physique +2 Lust Shielding.
+
+		-Angel: +14 Arcane -100 Corruption +50 Lust Shielding +50% Demon Damage -50% Human Damage.
+			-You have to cheat for this.
+		
+		-Elder Lilin: +1000 Physique, Arcane, Corruption, Health, Aura, and the ability to self-transform at will.
+			-You have to cheat for this.
+		
+		-Lilin: +500 Physique, Arcane, Corruption, Health, Aura, and the ability to self-transform at will.
+			-You have to cheat for this.
+		
+		-Demon: +25 Physique, +30 Arcane, +100 Corruption, +25% Spell Efficiency and Lust Damage, +75% Spell Damage, and the ability to self-transform at will.
+			-Gain 95+ Corruption and talk to Lyssieth after the Dark Siren questline
+		
+		-Half-Demon: +10 Physique, +20 Arcane, +50 Corruption, +20% Spell Efficiency and Lust Damage, +60% Spell Damage, and the ability to self-transform at will.
+			-You have to cheat for this.
+		
+		-Imp: -5 Physique, +5 Arcane, +200 Corruption, -25 Lust Shielding, -75% Lust Damage, and the ability to self-transform at will.
+			-You have to cheat for this.
+		
+		-Alpha Imp: +5 Arcane, +200 Corruption, -50 Lust Shielding, -50% Lust Damage, and the ability to self-transform at will.
+			-You have to cheat for this.
+		
+		-Cattle: +30 Physique, -5% Spell Efficiency, +10% Physical Damage, +2 Physical Shielding
+		
+		-Dog: +10 Physique, +5 Health, +5% Cat Damage.
+			-Border Collie: +10 Physique, +5 Arcane, +5% Spell Efficiency, +5 Health
+			-Doberman: +15 Physique, +15% Physical Damage, +5% Cat Damage
+			-German Shepherd: +15 Physique, +2 Arcane, +5% Physical Damage, +5 Health
+			-Samoyed: +20 Physique, +10 Cold Shielding, +30 Health
+			-
+		
+		-Wolf: +20 Physique, +5 Corruption, +10% Physical Damage, +25% Unarmed Damage
+		
+		-Fox: +5 Physique, +5 Arcane, +1 Health shielding, +10% Critical Power
+			-Arctic Fox: +5 Physique, +5 Arcane, +1 Health shielding, +10% Critical Power, +5 Cold Shielding
+			-Fennec: +5 Physique, +5 Arcane, +1 Health shielding, +10% Critical Power
+		
+		-Youko: Regular, arctic, and fennec all gain the same bonus
+			1 tail: +5 Physique, +10 Arcane, 0 Corruption, +15% Spell Efficiency, +25% Critical Power
+			2 tails: +5 Physique, +20 Arcane, 0 Corruption, +20% Spell Efficiency, +30% Critical Power
+			3 tails: +5 Physique, +30 Arcane, 0 Corruption, +25% Spell Efficiency, +35% Critical Power
+			4 tails: +5 Physique, +40 Arcane, 0 Corruption, +30% Spell Efficiency, +40% Critical Power
+			5 tails: +5 Physique, +50 Arcane, 0 Corruption, +35% Spell Efficiency, +45% Critical Power
+			6 tails: +5 Physique, +60 Arcane, 0 Corruption, +40% Spell Efficiency, +50% Critical Power
+			7 tails: +5 Physique, +70 Arcane, 0 Corruption, +45% Spell Efficiency, +55% Critical Power
+			8 tails: +5 Physique, +80 Arcane, 0 Corruption, +50% Spell Efficiency, +60% Critical Power
+			9 tails: +5 Physique, +100 Arcane, 0 Corruption, +25% Spell Efficiency, +100% Critical Power
+		
+		-Cat: +5 Physique, +10% Critical Power, +5% Harpy, Rat, and Squirrel damage
+			-Lynx & Caracal: +5 Physique, +10% Critical Power, +5% Harpy, Rat, and Squirrel damage
+			-Lion: +30 Physique, +15% Unarmed Damage, +15% Physical Damage, +5 Fire Shielding 
+			-Leopard: +20 Physique, +15% Critical Power, +5% Unarmed Damage, +5% Physical Damage, +5 Fire shielding
+			-Snow Leopard: +20 Physique, +15% Critical Power, +5% Unarmed Damage, +5% Physical Damage, +5 Cold shielding
+			-Tiger: +30 Physique, +25% Unarmed Damage, +25% Physical Damage
+			-Cheetah: +5 Physique. +25% Critical Power, 100% Escape chance vs non-cheetahs
+			-Cougar: +25 Physique, +5 Corruption, +10% Physical Damage, +10% Unarmed Damage
+			-Caracal: +5 Physique, +10% Critical Power, +5% Bird Damage, +5% Rat Damage, +5% Squirrel Damage
+		
+		-Horse: +25 Physique, -5 Arcane, -10% Spell Efficiency, +25% Physical Damage, +25% Critical Power
+			-Unicorn: +20 Physique, +5 Arcane, +50% Spell Efficiency, +5% Physicla Damage, +10% Critical Power
+			-Pegasus: +15 Physique, +10% Physical Damage, +10% Critical Power
+			-Alicorn: +15 Physique, +15 Arcane, +75% Spell Efficiency, +10% Physical Damage, +50% Critical Power, +100% Salvation
+			-Zebra: +25 Physique, -5 Arcane, -10% Spell Efficiency, +10% Physical Damage, +20% Critical Power, +5 Fire Shielding
+			-Donkey: +25 Physiue, -5 Arcane, -10% Spell Efficiency, +10% Physical Damage, +20% Critical Power, +5 Physical Shielding, +25% Dog Damage, +25% Wolf Damage, +25% Fox Damage
+		
+		-Reindeer: +25 Physique, +10% Physical Damage, +2 Physical Shielding, +5 Cold shielding
+		
+		-Alligator: +30 Physique, +10% Physical Damage, +25% Critical Power, +5 Physical Shielding
+		
+		-Squirrel: +5 Physique, +10% Critical Power.
+		
+		-Rat: +10 Corruption, +15% Poison Damage, +5 Poison Shielding
+		
+		-Rabbit: +5 Physique, +5% Critical Power, +50% Fertility, +50% Virility
+		
+		-Bat: +5 Physique, +15% Lust Damage
+		
+		-Badger: +10 Physique, +5 Cold Shielding
+		
+		-Capybara: +10 Arcane, +5 Lust Shielding
+		
+		-Dragon: +60 Physique, +50 Arcane, +20% Fire Damage, +30 Fire Shielding, +30 Physical Shielding, -10 Lust Shielding
+			-Coatl: +45 Physique, +65 Arcane, +20% Poison Damage, +30 Poison Shielding, +20 Physical Shielding, -10 Lust Shielding
+			-Drake: +65 Physique, +45 Arcane, +20% Fire Damage, +30 Fire Shielding, +30 Physical Shielding, -10 Lust Shielding
+			-Ryu: +55 Physique, +55 Arcane, +20% Cold Damage, +25% Critical Power, +35 Physical Shielding, -10 Lust Shielding
+			-Wyvern: +50 Physique, +60 Arcane, +30% Fire Damage, +30 Fire Shielding, +20 Physical Shielding, -10 Lust Shielding
+		
+		-Ferret: +10 Physique, +5 Arcane, +20% Critical Power, +10 Physical Shielding, +5% Unarmed Damage
+		
+		-Goat: +10 Physique, +10% Physical Damage, +5 Physical Shielding
+		
+		-Hyena: +20 Physique, +5 Corruption, +10% Physical Damage, +25% Critical Power
+		
+		-Mouse: +5% Critical Power
+		
+		-Octopus: +10 Physique, +10 Arcane, +50% Travel on land, -75% Travel in water
+		
+		-Otter: +15 Physique, +15 Arcane, +20% Critical Power, +3 Cold Shielding, -3 Poison Shielding
+		
+		-Pig: +5 Physique, +5 Poison Shielding
+		
+		-Raccoon: +15 Physique, +25% Critical Power, +5 Cold Shielding, +3 Poison Shielding, +5% Physical Damage
+		
+		-Bear: +25 Physique, +5% Physical Damage, +5 Physical Shielding, +20 Health
+		
+		-Salamander: +10 Physique, +5 Arcane, +10 Corruption +15% Critical Power
+			-Flame: +75% Fire damage, +5 Fire shielding
+			-Frost: +75% Cold damage, +5 Cold shielding
+		
+		-Snake: +5(10 if "taur") Physique, +15% Critical Power, +25% Poison Damage, -5 Cold Shielding, -5 Fire Shielding
+		
+		-Spider: +5 Physique, +5 Arcane, +15% Poison Damage, +30% Critical Power
+			-Tarantula: +15 Physique, +15% Poison Damage, +30% Critical Power
+		
+		-Harpy: +5 Corruption, +15% Lust Damage
+			-Raven: +5 Corruption, +15% Lust Damage
+			-Swan: +5 Corruption, +15% Lust Damage
+			-Bald Eagle: +5 Physique, +5 Corruption, +15% Lust Damage
+			-Phoenix: +5 Physique, +10 Arcane, +10 Corruption, +75% Fire Damage, +5 Fire shielding, +15% Lust Damage
+			
+		-Sheep: +5 Physique, +10% Lust Damage, +15 Cold Shielding
+		
+		-Shark: +15 Physique, +10% Physical Damage, +30% Critical Power
+		
+		-Deer: +10 Physique, +10% Physical damage, +5 Physical shielding
+		
+		-Eagle: +15 Physique, +15 Critical Power
+		-Falcon: +5 Physique, +25 Critical Power
+		-Owl: +10 Physique, +20 Critical Power
+			
+		-Slimes are a body material and add their bonus or override previous bonuses with their +25 Corruption, +100 Physical shielding, -75% Base Unarmed Damage, the ability to morph your body at will, and the ability to be impregnated through any orifice.
+		
+		
+[Fetish Bonuses]
+		
+		-Dominant: +5 Aura
+		
+		-Submissive: +2 Physique
+		
+		-Deflowering: Gain XP from taking virginities
+		
+		-Cum Addict: Gain +2 Physique when covered in cum.
+		
+		-Vaginal Virgin: Gain Pure Virgin while you still have your vaginal virginity +15 Lust shielding and -15 Corruption. Gain Broken Virgin when it's lost and you still have the fetish -50 Lust Shielding + 50 Corruption. Pure "Virgin" +5 Lust Shielding if you use a potion to regrow your hymen.
+		
+		-Impregnation: +5 Virility 
+		
+		-Pregnancy: +5 Fertility
+		
+		-Transformer: Halves cost of potion making.
+		
+		-Test Subject: Increased potency of transformation potions and disables being able to resist.
+		
+		-Kink Curious: Don't gain corruption when a kink is forced upon you.
+		
+		-Sadist: +5 Physical Damage, +5% Health Damage, +10% of all Health Damage dealt is returned to you as Lust Damage, gain 1 Essence on critical hits.
+		
+		-Masochist: +2 Physical Shielding, enjoy sex acts normally considered too painful, converts 25% of incoming health damage to lust damage, +1 essence when you're criticaly hit.
+		
+		-Non-Con: Gain arousal when partner is resisting.
+		
+		-Unwilling: Gain arousal when you are resisting.
+		
+		-Self Denial: +1 Physical Shielding, +2 Lust Shielding
+		
+		-Voyeurist: Gain more arousal when observing sex.
+		
+		-Exhibitionist: Replaces the normal debuff from being exposed with +25% Lust Damage.
+		
+		-Bimbo/Bro: +10 Lust Damage and gain the speech impediment
+		
+		-Crossdressing: Clothing femininity no longer matters
+		
+		-Size Queen: No longer uncomfortable from insertions normally considered too large
+		
+		-Switch: +5 Physique
+		
+		-Breeder: +25 Fertility & Virility
+		
+		-Sadomasochist: +3 Physical Shielding +10 Physical Damage
+		
+		-Lusty Maiden: Empowers Pure/Broken Virgin
+		
+		-Bondage Applier: Removes cost of sealing, servitude, and enslavement enchantments 
+		
+		-Bondage Bitch: 5x cost to unsealing yourself and makes the BDSM set apply positive effects
+		
+		
+If you've made it this far: Congratulations! I don't have a reward.
